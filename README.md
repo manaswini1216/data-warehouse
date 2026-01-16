@@ -1,3 +1,5 @@
+Notion : https://www.notion.so/Data-Warehouse-Project-2dc3c0498250809db9a8c24c12c1b5c7
+
 📊 Data Warehouse Project – Bronze Silver Gold Architecture
 📌 Project Overview
 This project implements a Data Warehouse using the Bronze–Silver–Gold architecture with a batch ETL pipeline.
